@@ -1,8 +1,6 @@
 # Fractol
 
-To compile write:
-
-                  make
+To compile write: make
                   
      Usage: ./fractol 1  
 
