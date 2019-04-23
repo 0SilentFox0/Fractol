@@ -2,7 +2,7 @@
 
 To compile write:
 
-                  "make"
+                  make
                   
 Usage: ./fractol 1  
 
